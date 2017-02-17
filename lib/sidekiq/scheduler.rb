@@ -1,4 +1,4 @@
-require 'hashwithindifferentaccess'
+# require 'hashwithindifferentaccess'
 require 'rufus/scheduler'
 require 'thwait'
 require 'sidekiq/util'
